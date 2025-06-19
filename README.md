@@ -1,1 +1,5 @@
-# Arun-s-Code-Repo
+👋 Hi, I'm Arun!
+💡 Driving insights through Data Analytics and building solutions with AWS are my current tech focus.
+🌱 Always learning and growing to deliver effective project outcomes.
+🤝 Let's connect on Web Development or Data Analytics projects – I'm excited to collaborate and contribute.
+⚡ When I'm not immersed in data or code, I'm usually turning pages of a good book or binging anime.
